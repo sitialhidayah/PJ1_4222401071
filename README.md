@@ -80,4 +80,3 @@ Confusion matrix: `E*_confusion_matrix.png`.
 | `E1_pretrained_best.pt`, `E3_tuning_best.pt` | Bobot terbaik |
 | `README.md` | Laporan ini |
 
-Skrip `00`–`06` (`.py`) berasal dari dosen dan tidak diubah.
